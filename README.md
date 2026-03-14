@@ -2,12 +2,17 @@
 
 Based in Bremen, Germany. M.Sc. Computer Science from Constructor University Bremen.
 
-Previously: Research Engineer @ Fraunhofer MEVIS (federated learning, PyTorch, medical imaging)
-            Software Engineer @ TeamViewer (Python, Kotlin, Docker, SpringBoot)
+**Previously:**
+- 🔬 Research Engineer @ Fraunhofer MEVIS — federated learning, PyTorch, medical imaging
+- 💻 Software Engineer @ TeamViewer — Python, Kotlin, Docker, SpringBoot
 
-My production work lives on company GitLab — happy to walk through architecture in an interview.
+**Currently:** Open to Software Engineer / ML Engineer roles in Germany and abroad.
+No visa sponsorship required (EU Job-Seeker Visa). Available immediately.
 
-Currently: Open to Software Engineer / ML Engineer roles in Germany and abroad.
-No visa sponsorship required (EU Job-Seeker Visa).
+> My production work lives on company GitLab — happy to walk through architecture in an interview.
 
-Skills: Python · C++ · Java · PyTorch · Docker · Linux · FastAPI · ROS
+---
+
+**Skills:** Python · C++ · Java · PyTorch · Docker · Linux · FastAPI · ROS · Flask · SpringBoot
+
+📧 migooface27@gmail.com · [LinkedIn](https://linkedin.com/in/abashimov)
