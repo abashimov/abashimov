@@ -1,16 +1,13 @@
-## Hi there 👋
+## Atabay Bashimov — Software Engineer
 
-<!--
-**abashimov/abashimov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Based in Bremen, Germany. M.Sc. Computer Science from Constructor University Bremen.
 
-Here are some ideas to get you started:
+Previously: Research Engineer @ Fraunhofer MEVIS (federated learning, PyTorch, medical imaging)
+            Software Engineer @ TeamViewer (Python, Kotlin, Docker, SpringBoot)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My production work lives on company GitLab — happy to walk through architecture in an interview.
+
+Currently: Open to Software Engineer / ML Engineer roles in Germany and abroad.
+No visa sponsorship required (EU Job-Seeker Visa).
+
+Skills: Python · C++ · Java · PyTorch · Docker · Linux · FastAPI · ROS
