@@ -1,4 +1,4 @@
-## Atabay Bashimov — Software Engineer
+## Atabay Bashimov - Software Engineer
 
 Based in Bremen, Germany. M.Sc. Computer Science from Constructor University Bremen.
 
