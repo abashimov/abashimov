@@ -4,7 +4,7 @@ Based in Bremen, Germany. M.Sc. Computer Science from Constructor University Bre
 
 **Previously:**
 - 🔬 Research Engineer @ Fraunhofer MEVIS — federated learning, PyTorch, medical imaging
-- 💻 Software Engineer @ TeamViewer — Python, Kotlin, Docker, SpringBoot
+- 💻 Professional Services Operations @ TeamViewer — Python, Kotlin, Docker, SpringBoot
 
 **Currently:** Open to Software Engineer / ML Engineer roles in Germany and abroad.
 No visa sponsorship required (EU Job-Seeker Visa). Available immediately.
